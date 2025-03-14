@@ -2,7 +2,7 @@
 
 **Classify incoming medical documents in seconds — not hours.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-medsort--ai--app.netlify.app-blue?style=flat-square)](https://medsort-ai-app.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?style=for-the-badge)](https://medsort-ai-app.netlify.app)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![Recharts](https://img.shields.io/badge/Recharts-3-22C55E?style=flat-square)](https://recharts.org)
